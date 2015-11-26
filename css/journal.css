@@ -1,0 +1,32 @@
+	body{
+		margin: 0px;
+		padding: 0px;
+		
+
+	}
+	.sidebar {
+		background: #b5b275;
+		color: #fff;
+		height: 100%;
+		border-radius: 0px;
+		border:0px solid #777;
+	}
+	.sidebar{
+		width: 200px;
+        left:0;
+        top: ;
+		position: absolute;
+	}
+	.topborder{
+		background: #b5b275;
+		color: #fff;
+		height: 100%;
+		border-radius: 0px;
+		border: 0px solid #777;
+	}
+	.topborder{
+		width: 100%;
+		right: 2000px;
+		top: 50px;
+		bottom: 150px;
+	}
